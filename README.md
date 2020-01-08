@@ -1,4 +1,4 @@
-# Tiny Desktop Engieneer
+# Tiny Desk Engieneer
 An TF2 Engineer that dances on your desktop
 ___
 ## Credits
