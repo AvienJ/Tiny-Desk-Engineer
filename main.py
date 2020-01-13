@@ -1,8 +1,8 @@
-# NAME: Project Name(WEBSITE:, GITHUB:, MISC:)
-# FILE: File Name(DIR: .\)
+# NAME: Tiny Desk Engineer)
+# FILE: main.py(DIR: .\)
 
-# DESCRIPTION: "A description of the file"
-# CREDITS: Who worked on this file(GITHUB, FACEBOOK, ETC: )
+# DESCRIPTION: "A tiny desk engineer that dances on your desktop"
+# CREDITS: Avien Jones(GITHUB: AvienJ)
 # MISC\NOTES: 
 # ____________________
 import tkinter as tk
