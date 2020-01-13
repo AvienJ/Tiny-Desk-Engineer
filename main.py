@@ -1,3 +1,10 @@
+# NAME: Project Name(WEBSITE:, GITHUB:, MISC:)
+# FILE: File Name(DIR: .\)
+
+# DESCRIPTION: "A description of the file"
+# CREDITS: Who worked on this file(GITHUB, FACEBOOK, ETC: )
+# MISC\NOTES: 
+# ____________________
 import tkinter as tk
 from tkinter import *
 
